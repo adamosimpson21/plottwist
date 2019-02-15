@@ -12,6 +12,6 @@ export class Walnut extends Hero {
     }
 
     static getDisplayName() {
-        return 'walnut';
+        return 'Walnut';
     }
 }
